@@ -2,7 +2,7 @@ ext {
   bintrayRepo = 'maven'
   bintrayName = 'Calendar_Day_View'
 
-  publishedGroupId = 'com.framgia.library.calendardayview'
+  publishedGroupId = 'com.github.kishimotoyk'
   libraryName = 'CalendarDayView'
   artifact = 'library'
 
@@ -11,7 +11,7 @@ ext {
   siteUrl = 'https://github.com/khacpv/Calendar-Day-View'
   gitUrl = 'https://github.com/khacpv/Calendar-Day-View.git'
 
-  libraryVersion = '1.0.4'
+  libraryVersion = '1.0.0'
 
   developerId = 'khacpv'
   developerName = 'khac pham'
