@@ -8,8 +8,8 @@ ext {
 
   libraryDescription = 'A Calendar View by day'
 
-  siteUrl = 'https://github.com/khacpv/Calendar-Day-View'
-  gitUrl = 'https://github.com/khacpv/Calendar-Day-View.git'
+  siteUrl = 'https://github.com/kishimotoyk/Calendar_Day_View'
+  gitUrl = 'https://github.com/kishimotoyk/Calendar_Day_View.git'
 
   libraryVersion = '1.0.0'
 
